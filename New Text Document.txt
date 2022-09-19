@@ -1,0 +1,32 @@
+Hello Ranjit sir Good Afternoon,
+
+We began system hardening yesterday, but we are currently unable to access W3 on the system. However, we must accomplish certification compulsorily in this month.
+Please set up a brief meeting with me and others to discuss this & some queries listed below.
+
+Discussion topic:
+1. System Hardening 
+2. Access to w3 after hardening
+3. How to complete certification on hardened laptop
+4. What will be the step by step process for this project? 
+
+Team Members:
+Cherukuri Karishma - Java Full Stack (Cherukuri.Karishma@ibm.com)
+Monika Mane - Test Specialist Full Stack (Monika.Mane@ibm.com)
+Pramod Tarpe - Test Specialist Full Stack (Pramod.Tarpe@ibm.com)
+Nikesh Rathod - Java Full Stack (Nikesh.Rathod@ibm.com)
+Shaik Thouhid - Microservices (shaik.Thouhid@ibm.com)
+
+
+
+Hello Tanmay Good Morning,
+
+Ranjit Mohanty told me to contact you regarding Hyper-v training which we need to complete this month.
+To access IBM w3 sites and fulfil certifications, we need to use hyper-v on our hardened laptop.
+Please assist us with Hyper-v?
+
+Team Members:
+Cherukuri Karishma - Java Full Stack (Cherukuri.Karishma@ibm.com)
+Monika Mane - Test Specialist Full Stack (Monika.Mane@ibm.com)
+Pramod Tarpe - Test Specialist Full Stack (Pramod.Tarpe@ibm.com)
+Nikesh Rathod - Java Full Stack (Nikesh.Rathod@ibm.com)
+Shaik Thouhid - Microservices (shaik.Thouhid@ibm.com)
